@@ -1,0 +1,2 @@
+grep -search inside files
+grep searchme *.txt
